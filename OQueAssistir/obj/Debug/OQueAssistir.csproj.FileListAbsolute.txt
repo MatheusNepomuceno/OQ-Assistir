@@ -1,0 +1,16 @@
+C:\Users\tec.tinf.ti6\source\repos\OQueAssistir\OQueAssistir\bin\Debug\OQueAssistir.exe.config
+C:\Users\tec.tinf.ti6\source\repos\OQueAssistir\OQueAssistir\bin\Debug\OQueAssistir.exe
+C:\Users\tec.tinf.ti6\source\repos\OQueAssistir\OQueAssistir\bin\Debug\OQueAssistir.pdb
+C:\Users\tec.tinf.ti6\source\repos\OQueAssistir\OQueAssistir\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\tec.tinf.ti6\source\repos\OQueAssistir\OQueAssistir\obj\Debug\OQueAssistir.csproj.AssemblyReference.cache
+C:\Users\tec.tinf.ti6\source\repos\OQueAssistir\OQueAssistir\obj\Debug\OQueAssistir.FormInicio.resources
+C:\Users\tec.tinf.ti6\source\repos\OQueAssistir\OQueAssistir\obj\Debug\OQueAssistir.Properties.Resources.resources
+C:\Users\tec.tinf.ti6\source\repos\OQueAssistir\OQueAssistir\obj\Debug\OQueAssistir.csproj.GenerateResource.cache
+C:\Users\tec.tinf.ti6\source\repos\OQueAssistir\OQueAssistir\obj\Debug\OQueAssistir.csproj.CoreCompileInputs.cache
+C:\Users\tec.tinf.ti6\source\repos\OQueAssistir\OQueAssistir\obj\Debug\OQueAssistir.csproj.CopyComplete
+C:\Users\tec.tinf.ti6\source\repos\OQueAssistir\OQueAssistir\obj\Debug\OQueAssistir.exe
+C:\Users\tec.tinf.ti6\source\repos\OQueAssistir\OQueAssistir\obj\Debug\OQueAssistir.pdb
+C:\Users\tec.tinf.ti6\source\repos\OQueAssistir\OQueAssistir\obj\Debug\OQueAssistir.Menu_Inicial.resources
+C:\Users\tec.tinf.ti6\source\repos\OQueAssistir\OQueAssistir\obj\Debug\OQueAssistir.Incluir_Filme.resources
+C:\Users\tec.tinf.ti6\source\repos\OQueAssistir\OQueAssistir\obj\Debug\OQueAssistir.Escolher_Filme.resources
+C:\Users\tec.tinf.ti6\source\repos\OQueAssistir\OQueAssistir\obj\Debug\OQueAssistir.Lista_Filmes.resources
